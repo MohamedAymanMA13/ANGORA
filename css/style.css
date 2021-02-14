@@ -164,7 +164,7 @@ transition: ALL 1s;
 .pad{
     padding-bottom: 62px;
 }
-/* ---------------------------------------------Team-------------------------------------- */
+/* ---------------------------------------------Contact-------------------------------------- */
 .bg-bt
 {
     height: 120px !important;
@@ -213,4 +213,34 @@ transition: ALL 1s;
 .hr-edit:hover hr
 {
     width: 90px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 766px){
+    .contact .icon-col i
+{
+    font-size: 20px;
+}
+.respon{
+    visibility: hidden;
+    display: none;
+}
 }
